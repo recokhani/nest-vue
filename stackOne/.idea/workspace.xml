@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="999df335-6b7e-4aae-a55e-841294a6872e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../backTwo/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/.idea/backTwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/nest-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/typeorm/entitis/User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/users/controller/users/users.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/users/controller/users/users.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/users/dtos/CreateUser.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/users/dtos/DeleteUser.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/users/dtos/UpdateUser.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/users/services/users/users.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/users/services/users/users.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/users/users.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/src/utils/Types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/test/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/test/jest-e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backTwo/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backthree/.idea/backthree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backthree/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backthree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backthree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backthree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/stackOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stackOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stackOne" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Desktop/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="999df335-6b7e-4aae-a55e-841294a6872e" name="Default Changelist" comment="" />
+      <created>1676490172237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676490172237</updated>
+      <workItem from="1676490173737" duration="1545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1545000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25033557" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
