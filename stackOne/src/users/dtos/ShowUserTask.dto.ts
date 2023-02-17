@@ -1,6 +1,5 @@
-
 import { ApiProperty } from '@nestjs/swagger'
-export class DeleteUserDto {
+export class ShowUserTaskDto {
     @ApiProperty()
-    id:number
+    id: number;
 }
